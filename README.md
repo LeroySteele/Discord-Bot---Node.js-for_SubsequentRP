@@ -64,3 +64,7 @@ To send an announcement from the bot, navigate to the 'announcement maker' chann
 All buttons create their respective tickets only allowing staff and the 'user who created the ticket' to see/interact with the ticket, including (whitebutton, support, playerreport, applications, businessChannel, gangChannel, secondcharacter, staffapplication, ownerTicket, banappealbutton)
 
 The 'Close ticket' button does the same as the "/close" command, where it closes the ticket and creates/sends a ticket transcript to the transcript channel
+
+
+
+If there are any issues or questions please email me at leroysteele99@gmail.com and I'll be happy to assist you.
