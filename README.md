@@ -3,16 +3,16 @@
 
 This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord server used to help moderate and automate work done by server staff. The bot supports slash commands, button functionality and observes messages sent in the guild to perform certain tasks.
 
-Resources used: 
+**Resources used: **
 -https://discord.com/developers/applications
 -https://emojipedia.org/
 -https://discord.js.org/
 -https://www.npmjs.com/
 
-To host the bot online I used Discloud (thats the purpose of the Discloud.config file)
+**To host the bot online I used Discloud (thats the purpose of the Discloud.config file)**
 -https://discloudbot.com/
 
-Steps:
+**Steps:**
 
 -Pull these files from Githun
 
@@ -23,9 +23,12 @@ Steps:
   npm i discord-html-transcripts
   npm i @discordjs/rest
   npm install @discordjs/builders
+  
 -To make the bot work you should create the reletaive channels and roles then update all the ID's that you get from Discord.
+
 -If you host it locally use "npm run start:dev" in the terminal to start the bot.
+
 -If you host using Discloud update the bot ID in Discloud.config and then upload the files to Dicloud.com or through the dicloud discord guild (always exclude the node_module folder when uploading).
 
-`**Commands**`
+**Commands**
 
