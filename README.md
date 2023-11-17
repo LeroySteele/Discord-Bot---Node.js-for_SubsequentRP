@@ -3,7 +3,7 @@
 
 This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord server used to help moderate and automate work done by server staff. The bot supports slash commands, button functionality and observes messages sent in the guild to perform certain tasks.
 
-**Resources used: **
+`Resources used:`
 -https://discord.com/developers/applications
 -https://emojipedia.org/
 -https://discord.js.org/
@@ -12,7 +12,7 @@ This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord serve
 **To host the bot online I used Discloud (thats the purpose of the Discloud.config file)**
 -https://discloudbot.com/
 
-**Steps:**
+`Steps:`
 
 -Pull these files from Githun
 
