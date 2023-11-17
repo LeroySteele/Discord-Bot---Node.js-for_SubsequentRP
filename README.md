@@ -30,5 +30,5 @@ This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord serve
 
 -If you host using Discloud update the bot ID in Discloud.config and then upload the files to Dicloud.com or through the dicloud discord guild (always exclude the node_module folder when uploading).
 
-**Commands**
+`Commands`
 
