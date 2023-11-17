@@ -59,4 +59,14 @@ This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord serve
 To send an announcement from the bot, navigate to the 'announcement maker' channel. In this bot there are 3 types of announcements (Whitelisted, Unwhitelisted, Sub-discords). To select where you want to make an announcement to, your message must include 1 of 3 keywords - "@whitelisted", "@Unwhitelisted", "LastUpdated: "
 
 
+`Buttons`
+
+All buttons create their respective tickets only allowing staff and the 'user who created the ticket' to see/interact with the ticket, including (whitebutton, support, playerreport, applications, businessChannel, gangChannel, secondcharacter, staffapplication, ownerTicket, banappealbutton)
+
+The 'Close ticket' button does the same as the "/close" command, where it closes the ticket and creates/sends a ticket transcript to the transcript channel
+
+
+Licessing 
+
+
 
