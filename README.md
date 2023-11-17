@@ -23,6 +23,7 @@ Steps:
   npm install @discordjs/builders
 -To make the bot work you should create the reletaive channels and roles then update all the ID's that you get from Discord.
 -If you host it locally use "npm run start:dev" in the terminal to start the bot.
--If you host using Discloud update the bot ID in Discloud.config and then upload the files to Dicloud.com or through the dicloud discord guild.
+-If you host using Discloud update the bot ID in Discloud.config and then upload the files to Dicloud.com or through the dicloud discord guild (always exclude the node_module folder when uploading).
 
+`**Commands**`
 
