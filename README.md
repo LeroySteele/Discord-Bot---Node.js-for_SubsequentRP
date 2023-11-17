@@ -32,7 +32,25 @@ This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord serve
 
 `Commands`
 
-"/ownerwhitelistmessage" - Used to create the initial message where users can click a button to open a whitelist ticket (it can only be run by people with the 'owner' role and it can only be run in the 'whitelist' channel).
+"/ownerwhitelistmessage" - Used to create the initial message where users can click a button to open a whitelist ticket. This command can only be run by people with the 'owner' role and it can only be run in the 'whitelist' channel).
 
 "/ownersupportmessage" - Used to create the initial message where users can click a button to a support ticket (there are many types of support tickets). This command can only be run by people with the 'owner' role and it can only be run in the 'support' channel.
+
+"/ownerbanappealmessage" - Used to create the initial message where users can click a button to open a ban appeal ticket. This command can only be run by people with the 'owner' role and it can only be run in the 'ban appeal' channel).
+
+
+
+"/closeticket" - Used to close any tickets, then it creates and sends a transcript of the ticket to the transcript channel.
+
+"/adduser" - When a ticket is created only staff and the ticket user can see the ticket. This command allows staff to add another member to the ticket. It can only be used by staff and can only be used in a tickets.
+
+"/removeuser" - When a ticket is created only staff and the ticket user can see the ticket. This command allows staff to remove the additional member from the ticket. It can only be used by staff and can only be used in a tickets.
+
+"/whitelistplayer" - Once a user goes through the interview process this command can be used to update the users username and roles. This command can only be used by staff, it can be run anywhere as long as the correct username and channel name is used in the command.
+
+"/handled" - Once is ticket is dealt with by staff members, this command can be used to mark it as handled (moves it to another discord category). Then it can reviewed by other staff members before being closed. This command can only be used by staff members and must be used it the target channel.
+
+"/unresponsive" - If a user opens a ticket and stops responding over time then an alert can be sent using the bot to remind the user of their ticket.
+
+
 
