@@ -13,7 +13,7 @@ To host the bot online I used Discloud (thats the purpose of the Discloud.config
 -https://discloudbot.com/
 
 Steps:
--Pull these files from Githun
+-Pull these files from Githun\n
 -Open CMD and /cd into the file. Then download all the npm packages using these commands
   npm i discord.js
   npm i -D dotenv
