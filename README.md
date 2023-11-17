@@ -31,5 +31,8 @@ This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord serve
 -If you host using Discloud update the bot ID in Discloud.config and then upload the files to Dicloud.com or through the dicloud discord guild (always exclude the node_module folder when uploading).
 
 `Commands`
-"/ownerwhitelistmessage" - Used to create the initial message where users can click a button to open a whitelist ticket (it can only be run by people with the 'owner' role and it can only be run in the 'whitelist' channel)
+
+"/ownerwhitelistmessage" - Used to create the initial message where users can click a button to open a whitelist ticket (it can only be run by people with the 'owner' role and it can only be run in the 'whitelist' channel).
+
+"/ownersupportmessage" - Used to create the initial message where users can click a button to a support ticket (there are many types of support tickets). This command can only be run by people with the 'owner' role and it can only be run in the 'support' channel.
 
