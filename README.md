@@ -24,7 +24,7 @@ This is a Discord ticket bot in node.js created for an 18+ GTA5 RP discord serve
   npm i @discordjs/rest
   npm install @discordjs/builders
 
--Pull the files from Github
+-Pull the files from Github, then update the 'package.Json' to look like this one, then add the 'index.js', 'discloud.config' and all the files in the 'Commands' folder.
 
 -To make the bot work you should create all the reletaive channels and roles in discord then update all the ID's .
 
